@@ -15,7 +15,6 @@
 <p align="left">
 <a href="https://stackoverflow.com/users/k3nn1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="k3nn1" height="30" width="40" /></a>
 <a href="https://codesandbox.com/kenkkui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="kenkkui" height="30" width="40" /></a>
-<a href="https://instagram.com/k3.nn1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k3.nn1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
