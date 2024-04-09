@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenkkui&label=Profile%20views&color=e7b8ea&style=flat" alt="kenkkui" /> </p>
 
-- 🔭 I’m currently working on **my portfolio**
+- 🔭 I’m currently working on **more projects**
 
-- 🌱 I’m currently learning **Back-end Development**
+- 🌱 I’m currently learning **more react features**
 
 - 💬 Ask me about **React, HTML/CSS, JS**
-
-- 📫 How to reach me **thifirstime@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
