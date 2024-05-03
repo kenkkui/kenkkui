@@ -5,10 +5,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  - [ Insta ]: <a href="https://www.instagram.com/k3.nn1/">@k3.nn1</a>
+  [ Insta ]: <a href="https://www.instagram.com/k3.nn1/">@k3.nn1</a>
   <br />
   
-   [Email]: my gmail ehhe **kenzlain@gmail.com**
+  [ Email ]: my gmail ehhe **kenzlain@gmail.com**
 </p>
 
 <h3 align="left" font-family="Consolas, monospace">
