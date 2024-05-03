@@ -8,7 +8,7 @@
   - [ Insta ]: <a href="https://www.instagram.com/k3.nn1/">@k3.nn1</a>
   <br />
   
-   [ Email ]: **kenzlain@gmail.com**
+   [Email]: my gmail ehhe **kenzlain@gmail.com**
 </p>
 
 <h3 align="left" font-family="Consolas, monospace">
