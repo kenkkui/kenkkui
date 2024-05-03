@@ -5,12 +5,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  [ Insta ]: <a href="https://www.instagram.com/k3.nn1/">@k3.nn1</a>
-  <br />
+  [ Insta ]: <a href="https://www.instagram.com/k3.nn1/">@k3.nn1</a><br />
   
   [ Email ]: my gmail ehhe **kenzlain@gmail.com**
 </p>
 
+*My Knowledge🤓*
 <h3 align="left" font-family="Consolas, monospace">
   
   [ Languages ]: ` HTML ` ` CSS ` ` JS ` ` Python ` <br />
