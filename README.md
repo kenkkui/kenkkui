@@ -1,5 +1,4 @@
 <h2 align="center">Hi 👋, I'm Kenzo Bunyi :>, a Front-end Dev and Designer currently based in the Philippines</h2>
-<br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenkkui&label=Profile%20views&color=e7b8ea&style=flat" alt="kenkkui" /> </p>
 <p>I'm a highschool student who learned coding through youtube videos, as i love the unlimited creativity programming offers you!</p>
 <br />
