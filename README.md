@@ -10,7 +10,7 @@
   [ Email ]: my gmail ehhe **kenzlain@gmail.com**
 </p>
 
-*My Knowledge🤓*
+***My Knowledge🤓***
 <h3 align="left" font-family="Consolas, monospace">
   
   [ Languages ]: ` HTML ` ` CSS ` ` JS ` ` Python ` <br />
