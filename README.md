@@ -10,9 +10,9 @@
 </p>
 
 <h3 align="left">
-  [ Languages ]: ```HTML``` ```CSS``` ```JS``` ```Python```
-  [ Front-end Technologies ]: ```Typescript``` ```React```
-  [ Source Control System ] ```Git```
-  [ Tools ]: ```Figma``` ```Github```
+  [ Languages ]: `HTML` `CSS` `JS` `Python` <br />
+  [ Front-end Technologies ]: `Typescript` `React` <br />
+  [ Source Control System ] `Git` <br />
+  [ Tools ]: `Figma` `Github` <br />
 </h3>
 
