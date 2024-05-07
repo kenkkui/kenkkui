@@ -15,7 +15,7 @@
 [**Source Control System**] ` Git ` <br />
 [**Tools**]: ` Figma ` ` Github ` <br />
 
-...or for those know js:) =>
+...or for those who know js:) =>
 ```js
   const My_Knowledge = {
     Languages: {
