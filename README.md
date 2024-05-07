@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kenzo Bunyi :>, a Front-end Dev and UI/UX Designer currently based in the Philippines</h1>
+<h1 align="center">Hi 👋, I'm Kenzo Bunyi :></h1>
+<h3>A Front-end Dev and UI/UX Designer currently based in the Philippines</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenkkui&label=Profile%20views&color=e7b8ea&style=flat" alt="kenkkui" /> </p>
 <p>I'm a highschool student who learned coding through youtube videos. I spend most of my time learning new programming languages and sharpening my current coding skills. Outside of coding, I enjoy playing some Badminton🏸 and when I need some de-stress, I play games:)</p>
 
