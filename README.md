@@ -13,7 +13,7 @@
 [**Languages**]: ` HTML ` ` CSS ` ` JS ` ` Python ` <br />
 [**Front-end Technologies**]: ` Typescript ` ` React ` `Scss` <br />
 [**Source Control System**] ` Git ` <br />
-[**Tools**]: ` Figma ` ` Github ` <br />
+[**Tools**]: ` Figma ` ` Github ` `Spline` `Webflow` <br />
 
 ...or for those who know js:) =>
 ```js
@@ -24,7 +24,7 @@
     },
     Front-end_Technologies: [TypeScript, React, Scss],
     Source_Control_System: Git,
-    Tools: [Figma, Github],
+    Tools: [Figma, Github, Spline, Webflow],
   }
 ```
   
