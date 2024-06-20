@@ -10,8 +10,8 @@
 <br />
 
 ## My Knowledge 🤓
-[**Languages**]: ` HTML ` ` CSS ` ` JS ` ` Python ` <br />
-[**Front-end Technologies**]: ` Typescript ` ` React ` `Scss` <br />
+[**Languages**]: ` HTML ` ` CSS ` ` JavaScript ` ` Python ` ` TypeScript ` <br />
+[**Front-end Technologies**]: ` React ` `Scss` <br />
 [**Back-end Technologies**]: ` Node ` <br />
 [**Source Control System**] ` Git ` <br />
 [**Tools**]: ` Figma ` ` Github ` `Spline` `Webflow` <br />
@@ -20,10 +20,10 @@
 ```js
   const My_Knowledge = {
     Languages: {
-      Web_development: [HTML, CSS, JS],
+      Web_development: [HTML, CSS, JavaScript, TypeScript],
       Software_engineering: [Python]
     },
-    Front-end_Technologies: [TypeScript, React, Scss],
+    Front-end_Technologies: [React, Scss],
     Back-end_Technologies: Node,
     Source_Control_System: Git,
     Tools: [Figma, Github, Spline, Webflow],
