@@ -11,7 +11,7 @@
 
 ## My Knowledge 🤓
 [**Languages**]: ` HTML ` ` CSS ` ` JavaScript ` ` Python ` ` TypeScript ` <br />
-[**Front-end Technologies**]: ` React ` `Scss` <br />
+[**Front-end Technologies**]: ` React ` `Scss` `Framer Motion` <br />
 [**Back-end Technologies**]: ` Node ` <br />
 [**Source Control System**] ` Git ` <br />
 [**Tools**]: ` Figma ` ` Github ` `Spline` `Webflow` <br />
@@ -23,7 +23,7 @@
       Web_development: [HTML, CSS, JavaScript, TypeScript],
       Software_engineering: [Python]
     },
-    Front-end_Technologies: [React, Scss],
+    Front-end_Technologies: [React, Scss, Framer-Motion],
     Back-end_Technologies: Node,
     Source_Control_System: Git,
     Tools: [Figma, Github, Spline, Webflow],
