@@ -6,7 +6,7 @@
 
 ## Connect with me
 [**Insta**]: [@k3.nn1](https://www.instagram.com/k3.nn1/); <br/>
-[**Email**]: **kenzlain@gmail.com**
+[**Email**]: **kenzobunyi.studio@gmail.com**
 <br />
 
 ## My Knowledge 🤓
