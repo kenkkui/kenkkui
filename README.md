@@ -11,7 +11,7 @@
 
 ## My Knowledge 🤓
 [**Languages**]: ` HTML ` ` CSS ` ` JavaScript ` ` Python ` ` TypeScript ` <br />
-[**Front-end Technologies**]: ` React ` `Scss` `Framer Motion` `Tailwind CSS` `Next` <br />
+[**Front-end Technologies**]: ` React ` `Scss` `Framer Motion` `GSAP` `Tailwind CSS` `Next` <br />
 [**Back-end Technologies**]: ` Node ` <br />
 [**Source Control System**] ` Git ` <br />
 [**Tools**]: ` Figma ` ` Github ` `Spline` `Webflow` <br />
